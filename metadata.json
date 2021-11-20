@@ -1,1 +1,38 @@
-{}
+{
+  "name": "Flaming sword",
+  "symbol": "",
+  "description": "+5 fire attack",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/egopher/storage/main/flamesword.png",
+  "animation_url": "",
+  "external_url": "https://raw.githubusercontent.com/egopher/storage/main/flamesword.png",
+  "attributes": [
+    {
+      "trait_type": "web",
+      "value": "yes"
+    },
+    {
+      "trait_type": "mobile",
+      "value": "yes"
+   },
+   {
+      "trait_type": "extension",
+      "value": "yes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/egopher/storage/main/flamesword.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3KhUWanhKeFATGio253QofyZmvhgK36axB3EsWgq598S",
+        "share": 100
+      }
+    ]
+  }
+}
